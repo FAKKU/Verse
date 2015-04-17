@@ -1,0 +1,6 @@
+game directory: /var/www/BrowserQuest
+client building: /var/www/BrowserQuest/bin/./build.sh
+server restarting: pm2 restart main
+server killing: pm2 stop main
+server starting: pm2 start /var/www/BrowserQuest/server/js/main.js
+cd /var/www/BrowserQuest && git pull
