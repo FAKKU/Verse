@@ -30,13 +30,6 @@ define(['npc'], function(Npc) {
             }
         }),
 
-        VillageGirl: Npc.extend({
-            init: function(id) {
-                this._super(id, Types.Entities.VILLAGEGIRL, 1);
-                this.npcName = "Clara";
-            }
-        }),
-
         Villager: Npc.extend({
             init: function(id) {
                 this._super(id, Types.Entities.VILLAGER, 1);

@@ -336,7 +336,6 @@ define(['jquery', 'storage', 'cookie'], function($, Storage, Cookie) {
                     .replace('beachnpc','Tegumi')
                     .replace('forestnpc','Mike')
                     .replace('priest','Brittany')
-                    .replace('villagegirl','Clara')
                     .replace('villager','Sera')
                     .replace('desertnpc','Taylor')
                     .replace('snake','Wild Tentacle')

@@ -26,13 +26,6 @@ define(['character'], function(Character) {
       "<img src=\"https://t.fakku.net/images/upload/napata-cover-pixels.png\">",
       "What do you think of it?"
     ],
-    "villagegirl": [
-      "My name is <b>Clara</b>, I'm a typesetter at FAKKU!",
-      "Before working here I taught English at a school in Japan.",
-      "Wait, have you watched Gundam?",
-      "If not you really should watch Gundam.",
-      "Come back once you've watched Gundam, then we'll talk."
-    ],
     "villager": [
       "My name is <b>Sera</b>, I'm a typesetter at FAKKU!",
       "In my free time I work on my own art, <a href=\"http://serastanton.com/\" target=\"_blank\">you can see some of my art here</a>.",
@@ -130,7 +123,6 @@ define(['character'], function(Character) {
     "desertnpc": [
       "Hello! My name is Taylor, or <b>Kisuka</b> if you prefer.",
       "I'm a web developer at FAKKU.",
-      "I made the collections system and I'm working on our mobile site.",
       "How did this code even work before?",
       "Have you watched Naruto? Hinata is my waifu <3.",
       "I have an obsession for Plugsuits.",
